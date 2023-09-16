@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="59b6be71971971107a057ed0f053af38" label="TASK" max_length="40" name="x_1109250_task_task" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="NAME" max_length="40" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>
